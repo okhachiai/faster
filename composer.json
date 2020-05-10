@@ -1,0 +1,13 @@
+{
+    "name": "oktech/ok-faster",
+    "authors": [
+        {
+            "name": "oussama khachiai",
+            "email": "oussama.khachiai@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    }
+}
